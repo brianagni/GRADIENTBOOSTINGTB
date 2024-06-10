@@ -1,0 +1,5 @@
+dist/aplikasi.exe filter=lfs diff=lfs merge=lfs -text
+build/aplikasi/aplikasi.pkg filter=lfs diff=lfs merge=lfs -text
+D:/PROYEK/Gradient[[:space:]]Boosting/build/aplikasi/aplikasi.pkg filter=lfs diff=lfs merge=lfs -text
+../Gradient[[:space:]]Boosting/build/aplikasi/aplikasi.pkg filter=lfs diff=lfs merge=lfs -text
+D:/PROYEK/Gradient[[:space:]]Boosting/dist/aplikasi.exe filter=lfs diff=lfs merge=lfs -text
